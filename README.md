@@ -83,7 +83,7 @@ A Python-based language translation application.
 
 ## 📊 GitHub Stats
 
-![Shashidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Shashidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight)
 
 ---
 
