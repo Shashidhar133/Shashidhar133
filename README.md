@@ -296,29 +296,8 @@ A machine-learning based Flask application for predicting satellite mission succ
 </tr>
 </table>
 
----
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-```text
-                    CONTRIBUTION ACTIVITY
-
-       Mon   Tue   Wed   Thu   Fri   Sat   Sun
-       ─────────────────────────────────────────
-
-Week 1  ░     ▒     ░     ▓     ▒     ░     ▒
-Week 2  ▒     ▓     ▓     ░     ▒     ▓     ░
-Week 3  ░     ▒     ▓     ▓     ▓     ▒     ░
-Week 4  ▓     ▓     ▒     ░     ▓     ▓     ▒
-Week 5  ▒     ░     ▓     ▓     ▒     ▓     ▓
-Week 6  ▓     ▒     ▓     ░     ▒     ▓     ░
-Week 7  ░     ▓     ▓     ▒     ▓     ░     ▓
-Week 8  ▒     ▒     ░     ▓     ▓     ▒     ▓
-
-        ░ Less activity
-        ▒ Moderate
-        ▓ High activity
-<!-- ========================= DEVELOPER ACTIVITY ========================= -->
+---------
+<-- ========================= DEVELOPER ACTIVITY ========================= -->
 
 <h2 align="center">🚀 Developer Activity</h2>
 
