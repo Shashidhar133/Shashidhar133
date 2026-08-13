@@ -318,95 +318,108 @@ Week 8  ▒     ▒     ░     ▓     ▓     ▒     ▓
         ░ Less activity
         ▒ Moderate
         ▓ High activity
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+<!-- ========================= DEVELOPER ACTIVITY ========================= -->
 
-<h2 align="center">
-  🐍 <font color="#00F5A0">Contribution Snake</font>
-</h2>
+<h2 align="center">🚀 Developer Activity</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    width="95%"
-  />
+  <b>Code • Build • Learn • Improve • Repeat</b>
 </p>
 
-<br>
+<table align="center">
+<tr>
+<td align="center">
 
-<!-- ========================= PROFILE SUMMARY ========================= -->
+💻<br>
+<b>Projects</b><br>
+Real-World Applications
 
-<h2 align="center">
-  🚀 <font color="#FF1493">Developer Activity</font>
-</h2>
+</td>
 
-<p align="center">
+<td align="center">
 
-<img src="https://img.shields.io/github/commit-activity/y/Shashidhar133?style=for-the-badge&label=COMMITS"/>
+🐍<br>
+<b>Primary Language</b><br>
+Python
 
-<img src="https://img.shields.io/github/last-commit/Shashidhar133/Shashidhar133?style=for-the-badge&label=LAST%20UPDATE"/>
+</td>
 
-<img src="https://img.shields.io/github/repo-size/Shashidhar133/Shashidhar133?style=for-the-badge&label=PROFILE%20REPO"/>
+<td align="center">
 
-</p>
+🌐<br>
+<b>Development</b><br>
+Full Stack
+
+</td>
+
+<td align="center">
+
+🧠<br>
+<b>Problem Solving</b><br>
+DSA
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🤖<br>
+<b>AI / NLP</b><br>
+Exploring
+
+</td>
+
+<td align="center">
+
+☁️<br>
+<b>Cloud</b><br>
+AWS
+
+</td>
+
+<td align="center">
+
+🗄️<br>
+<b>Database</b><br>
+SQL / PostgreSQL
+
+</td>
+
+<td align="center">
+
+🚀<br>
+<b>Career Goal</b><br>
+Software Engineer
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🎯 Currently Learning
 
 ```text
-Python
-   ↓
-Django
-   ↓
-REST APIs
-   ↓
-React
-   ↓
-SQL & PostgreSQL
-   ↓
-AWS & Cloud
-   ↓
-Data Structures & Algorithms
-```
-
----
-
-# 💡 My Developer Goals
-
-🚀 Become a strong **Python Full Stack Developer**
-
-🏗️ Build scalable real-world applications
-
-☁️ Learn and implement **AWS Cloud technologies**
-
-🧠 Improve **DSA & problem-solving skills**
-
-🤝 Contribute to open-source projects
-
-📈 Continuously improve my development skills
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Shashidhar133">
-<img src="https://img.shields.io/badge/GitHub-Shashidhar133-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💻 "Building today. Learning every day. Growing continuously." 🚀
-
-⭐ **Thanks for visiting my profile!**
-
-</p>
+🐍 Python
+      │
+      ▼
+🌐 Django
+      │
+      ▼
+🔗 REST APIs
+      │
+      ▼
+⚛️ React
+      │
+      ▼
+🗄️ SQL & PostgreSQL
+      │
+      ▼
+☁️ AWS & Cloud
+      │
+      ▼
+🧠 Data Structures & Algorithms
+      │
+      ▼
+🤖 AI & NLP
