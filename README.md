@@ -147,79 +147,177 @@ A machine-learning based Flask application for predicting satellite mission succ
 
 ---
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+<!-- ========================================================= -->
+<!--                  GITHUB DEVELOPER DASHBOARD              -->
+<!-- ========================================================= -->
 
 <h2 align="center">
-  📊 <font color="#36BCF7">GitHub Analytics</font>
+  📊 GitHub Developer Dashboard
 </h2>
 
 <p align="center">
-  <i>My coding activity, contributions and technology usage</i>
+  <b>Code • Build • Learn • Improve • Repeat</b>
 </p>
 
-<br>
+---
 
-<!-- GitHub Stats + Top Languages -->
+<h3 align="center">💻 Development Focus</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    width="49%"
-  />
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
-    width="42%"
-  />
-</p>
+### 🐍 Python
 
-<br>
+████████████████████░░ **90%**
 
-<!-- ========================= CONTRIBUTION STREAK ========================= -->
+### 🌐 Django
 
-<h2 align="center">
-  🔥 <font color="#FF8C00">Contribution Streak</font>
-</h2>
+██████████████████░░░░ **85%**
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF6B35&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=FFFFFF"
-    width="75%"
-  />
-</p>
+### 🗄️ SQL & Databases
 
-<br>
+████████████████░░░░░░ **80%**
 
-<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+### ⚛️ React
 
-<h2 align="center">
-  📈 <font color="#00C6FF">Contribution Activity</font>
-</h2>
+██████████████░░░░░░░░ **70%**
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shashidhar133&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF&area_color=36BCF7&area=true&hide_border=true&custom_title=Shashidhar%20Yadav%20-%20Contribution%20Activity"
-    width="95%"
-  />
-</p>
+</td>
 
-<br>
+<td width="50%" valign="top">
 
-<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+### ☁️ AWS / Cloud
 
-<h2 align="center">
-  🗓️ <font color="#8A2BE2">Contribution Calendar</font>
-</h2>
+██████████░░░░░░░░░░░░ **50%**
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/36BCF7/Shashidhar133"
-    width="95%"
-  />
-</p>
+### 🟨 JavaScript
 
-<br>
+██████████████░░░░░░░░ **70%**
 
+### 🎨 HTML / CSS
+
+██████████████████░░░░ **85%**
+
+### 🤖 AI / NLP
+
+████████████░░░░░░░░░░ **60%**
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">🚀 Developer Statistics</h3>
+
+<table align="center">
+<tr>
+<th>📌 Metric</th>
+<th>📈 Progress</th>
+<th>🎯 Goal</th>
+</tr>
+
+<tr>
+<td align="center"><b>Python</b></td>
+<td align="center">████████████████████░░</td>
+<td align="center">Expert</td>
+</tr>
+
+<tr>
+<td align="center"><b>Django</b></td>
+<td align="center">██████████████████░░░░</td>
+<td align="center">Advanced</td>
+</tr>
+
+<tr>
+<td align="center"><b>Full Stack</b></td>
+<td align="center">███████████████░░░░░░░</td>
+<td align="center">Advanced</td>
+</tr>
+
+<tr>
+<td align="center"><b>DSA</b></td>
+<td align="center">███████████░░░░░░░░░░░</td>
+<td align="center">Strong</td>
+</tr>
+
+<tr>
+<td align="center"><b>AWS</b></td>
+<td align="center">██████████░░░░░░░░░░░░</td>
+<td align="center">Production</td>
+</tr>
+
+<tr>
+<td align="center"><b>AI / NLP</b></td>
+<td align="center">████████████░░░░░░░░░░</td>
+<td align="center">Advanced</td>
+</tr>
+
+</table>
+
+---
+
+<h3 align="center">🔥 Coding Consistency</h3>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<b>Current Goal</b>
+
+🔥 Build Every Week
+
+</td>
+
+<td align="center">
+
+<b>Learning</b>
+
+📚 Continuous
+
+</td>
+
+<td align="center">
+
+<b>Projects</b>
+
+🚀 Real World
+
+</td>
+
+<td align="center">
+
+<b>Practice</b>
+
+🧠 DSA
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+```text
+                    CONTRIBUTION ACTIVITY
+
+       Mon   Tue   Wed   Thu   Fri   Sat   Sun
+       ─────────────────────────────────────────
+
+Week 1  ░     ▒     ░     ▓     ▒     ░     ▒
+Week 2  ▒     ▓     ▓     ░     ▒     ▓     ░
+Week 3  ░     ▒     ▓     ▓     ▓     ▒     ░
+Week 4  ▓     ▓     ▒     ░     ▓     ▓     ▒
+Week 5  ▒     ░     ▓     ▓     ▒     ▓     ▓
+Week 6  ▓     ▒     ▓     ░     ▒     ▓     ░
+Week 7  ░     ▓     ▓     ▒     ▓     ░     ▓
+Week 8  ▒     ▒     ░     ▓     ▓     ▒     ▓
+
+        ░ Less activity
+        ▒ Moderate
+        ▓ High activity
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
 <h2 align="center">
