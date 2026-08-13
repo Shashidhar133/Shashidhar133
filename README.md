@@ -1,11 +1,15 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================================================= -->
+
+<!--                  SHASHIDHAR YADAV PROFILE                 -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Shashidhar%20Yadav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Shashidhar%20Yadav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=900&height=70&lines=Python+%7C+Django+Developer+%F0%9F%90%8D;Full+Stack+Development+Enthusiast+%F0%9F%92%BB;Backend+%26+Database+Developer+%F0%9F%97%84%EF%B8%8F;Building+Real-World+Applications+%F0%9F%9A%80;Exploring+Cloud+%26+AI+Technologies+%E2%98%81%EF%B8%8F;Always+Learning.+Always+Building.+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=900&height=70&lines=Python+%7C+Django+Developer+%F0%9F%90%8D;Full+Stack+Development+Enthusiast+%F0%9F%92%BB;Backend+%26+Database+Developer+%F0%9F%97%84%EF%B8%8F;Building+Real-World+Applications+%F0%9F%9A%80;Exploring+AI+%26+Cloud+Technologies+%E2%98%81%EF%B8%8F;Always+Learning.+Always+Building.+%F0%9F%94%A5"/>
 </p>
 
 <p align="center">
@@ -15,181 +19,224 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Shashidhar133&label=Profile%20Views&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Shashidhar133&label=PROFILE%20VIEWS&style=for-the-badge"/>
 </p>
 
----
+<br>
 
-# 👋 Hi, I'm Shashidhar Yadav
+<!-- ========================= ABOUT ========================= -->
 
-### 💻 MSc Computer Science Student | 🐍 Python Django Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&text=%F0%9F%A7%A0%20ABOUT%20ME&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
+</p>
 
-> Building practical software solutions with Python, Django, databases and modern web technologies.
+<p align="center">
+  <b>Computer Science Student • Python Developer • Backend Enthusiast</b>
+</p>
 
-I am a Computer Science student passionate about **backend development, full-stack applications, databases, cloud technologies and problem solving**.
+<p align="center">
+  Building practical software solutions using Python, Django,
+  databases and modern web technologies.
+</p>
 
-I enjoy taking an idea and turning it into a working application that solves a real-world problem.
-
----
-
-# 🚀 About Me
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🎓 **MSc Computer Science Student**
+### 🎓 Education
 
-🐍 **Python & Django Developer**
+* MSc Computer Science
+* Strong interest in software engineering
+* Continuously improving programming skills
 
-🌐 **Full Stack Development**
+### 💻 Development
 
-🗄️ **Database Development**
-
-☁️ **Cloud Technology Enthusiast**
-
-🤖 **NLP & AI Exploration**
+* Python & Django
+* Flask
+* REST API development
+* SQL & database systems
+* React & JavaScript
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🏥 Built a complete **Hospital Management System**
+### 🚀 Interests
 
-🤖 Developed an **NLP Conversational Chatbot**
+* Backend Engineering
+* Full Stack Development
+* Cloud Technologies
+* AI & NLP
+* Data Structures & Algorithms
 
-🌍 Built a **Language Translation Platform**
+### 🧩 What I Build
 
-🛰️ Worked on **Satellite Mission Prediction**
-
-🧠 Improving **DSA & Problem Solving**
-
-🚀 Building projects to strengthen real-world development skills
+* Business applications
+* Management systems
+* Web applications
+* AI/NLP projects
+* Data-driven applications
 
 </td>
 </tr>
 </table>
 
----
+<!-- ========================= TECH STACK ========================= -->
 
-# 🧠 What I Work With
-
-### 🐍 Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF1493&height=55&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
 
-### 🌐 Frontend Development
+### 🐍 Programming
 
-<p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### ☁️ Tools & Cloud
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
----
+<br>
 
-# ⭐ Featured Projects
+<!-- ========================= PROJECTS ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REAL--WORLD%20PROJECTS-36BCF7?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=55&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Real-world applications built while learning and improving my development skills.</i>
 </p>
 
 ---
 
 ## 🏥 Hospital Management System
 
-### `Enterprise-style Healthcare Management Platform`
+### `Enterprise Healthcare Management Platform`
 
-A comprehensive Django-based healthcare management system designed to manage different hospital operations through a centralized platform.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=8&text=" width="90%"/>
+</p>
 
-### ⚡ Key Features
+A comprehensive Django-based healthcare management platform designed to manage multiple hospital operations from a centralized system.
 
-| Module            | Functionality                                                      |
-| ----------------- | ------------------------------------------------------------------ |
-| 🔐 Authentication | Secure user login & access control                                 |
-| 👥 RBAC           | Administrator, Doctor, Receptionist, Pharmacist & Laboratory roles |
-| 🧑‍⚕️ Doctors     | Doctor profiles & availability                                     |
-| 🧑‍🤝‍🧑 Patients | Patient records & management                                       |
-| 📅 Appointments   | Appointment scheduling                                             |
-| 💊 Pharmacy       | Medicine & supplier management                                     |
-| 💰 Billing        | Invoice & billing management                                       |
-| 🧪 Laboratory     | Laboratory records                                                 |
-| 📊 Dashboard      | Reports & visual analytics                                         |
-| 🔔 Notifications  | System notifications                                               |
-| 📝 Audit          | Activity tracking                                                  |
+### ⚡ Core Modules
 
-### 🧰 Technology
+| Module            | Function                         |
+| ----------------- | -------------------------------- |
+| 🔐 Authentication | Secure user authentication       |
+| 👥 RBAC           | Role-based access control        |
+| 🧑‍⚕️ Doctors     | Doctor management & availability |
+| 🧑‍🤝‍🧑 Patients | Patient records                  |
+| 📅 Appointments   | Appointment scheduling           |
+| 💊 Pharmacy       | Medicine & supplier management   |
+| 💰 Billing        | Invoices & billing               |
+| 🧪 Laboratory     | Laboratory records               |
+| 📊 Reports        | Analytics dashboard              |
+| 🔔 Notifications  | System notifications             |
+| 📝 Audit          | Activity tracking                |
 
-`Python` `Django` `MySQL` `HTML` `CSS` `JavaScript` `Chart.js`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Django-Web-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/Chart.js-Analytics-FF6384?style=flat-square&logo=chart.js"/>
+</p>
 
-> 💡 **Why this project matters:** This project demonstrates my ability to design a multi-module backend application with authentication, role-based permissions, database relationships and business logic.
+> 💡 **What this project demonstrates:** Backend architecture, database relationships, authentication, role-based permissions, business logic and dashboard development.
 
 ---
 
 ## 🤖 NLP Conversational AI Chatbot
 
-### `Intelligent Text-Based Conversational Assistant`
+### `Natural Language Processing • Intent Recognition • Conversational Interface`
 
-A Python-based conversational chatbot built using **spaCy Natural Language Processing** and Flask.
+A Python chatbot built with **spaCy NLP** and Flask that processes user messages, identifies patterns/intents and generates appropriate responses.
 
-### 🧠 Intelligence Layer
+### 🧠 Processing Pipeline
 
 ```text
-User Message
-     ↓
-Text Processing
-     ↓
-NLP / Pattern Matching
-     ↓
-Intent Detection
-     ↓
-Response Selection
-     ↓
-Conversational Response
+                    USER MESSAGE
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ Text Input    │
+                 └───────┬───────┘
+                         ▼
+                 ┌───────────────┐
+                 │ NLP Processing│
+                 └───────┬───────┘
+                         ▼
+                 ┌───────────────┐
+                 │ Intent /      │
+                 │ Pattern Match │
+                 └───────┬───────┘
+                         ▼
+                 ┌───────────────┐
+                 │ Response      │
+                 │ Selection     │
+                 └───────┬───────┘
+                         ▼
+                    AI RESPONSE
 ```
 
 ### ✨ Features
 
-🧠 Intent recognition
+* 🧠 NLP-based text processing
+* 🎯 Intent and pattern recognition
+* 💬 Automated responses
+* 🌐 Flask web interface
+* 💾 Session-based chat history
+* 🔤 spaCy language processing
 
-🔤 Natural language processing
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+</p>
 
-🎯 Pattern matching
+### 🔮 Future AI Roadmap
 
-💬 Automated responses
-
-🌐 Flask web interface
-
-💾 Chat session history
-
-### 🧰 Technology
-
-`Python` `spaCy` `NLP` `Flask` `Bootstrap`
-
-> 🚀 **Future direction:** The project can be extended with LLM APIs, embeddings, vector databases and retrieval-augmented generation.
+```text
+Current NLP Chatbot
+        ↓
+Intent Classification
+        ↓
+Context Awareness
+        ↓
+LLM Integration
+        ↓
+Vector Database
+        ↓
+RAG-Based Assistant
+```
 
 ---
 
@@ -197,192 +244,240 @@ Conversational Response
 
 ### `Multi-Language Translation Web Application`
 
-A Django-based translation platform designed to provide a simple interface for translating text between multiple languages.
+A Django-based translation platform that provides an easy interface for translating text between different languages.
 
 ### ✨ Features
 
-🌐 Multi-language translation
+* 🌐 Multi-language translation
+* 📝 Text input
+* 🔄 Translation processing
+* 👤 User translation history
+* 🎨 Responsive interface
+* ⚡ Simple user workflow
 
-📝 Text input interface
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/Translation-API-8A2BE2?style=flat-square"/>
+</p>
 
-🔄 Translation processing
-
-👤 User-based translation history
-
-🎨 Responsive web interface
-
-⚡ Simple and fast workflow
-
-### 🧰 Technology
-
-`Python` `Django` `Translation API` `HTML` `CSS` `JavaScript`
-
-### 🔮 Future AI Enhancements
+### 🔮 Future Enhancements
 
 ```text
-Current
-   ↓
-Translation API
-   ↓
-Future Improvements
-   ├── AI-powered context detection
-   ├── Automatic language detection
-   ├── Translation quality scoring
-   ├── Voice input
-   └── Speech-to-text / text-to-speech
+Translation
+     ↓
+Automatic Language Detection
+     ↓
+Context-Aware Translation
+     ↓
+Translation Quality Scoring
+     ↓
+Voice Input
+     ↓
+Speech-to-Text / Text-to-Speech
 ```
 
 ---
 
 ## 🛰️ Satellite Mission Success Prediction
 
-### `Machine Learning Prediction Application`
+### `Machine Learning • Flask • Prediction`
 
-A Flask-based machine-learning application focused on predicting satellite mission success using mission-related data.
+A Flask-based machine-learning application developed to explore prediction of satellite mission outcomes using mission-related data.
 
-### ✨ Highlights
+### 🔬 Highlights
 
-📊 Data processing
-
-🤖 Machine learning prediction
-
-🌐 Flask web application
-
-📈 Prediction interface
-
-🛰️ Space technology use case
-
-### 🧰 Technology
-
-`Python` `Flask` `Machine Learning` `HTML` `CSS`
-
----
-
-# 🎯 Developer Goals
+* 📊 Data processing
+* 🤖 Machine learning model
+* 📈 Prediction interface
+* 🌐 Flask web application
+* 🛰️ Space technology use case
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-BECOME%20A%20STRONG%20PYTHON%20DEVELOPER-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=flat-square"/>
 </p>
 
-Build strong expertise in **Python, Django, APIs, backend architecture and software development practices.**
+<!-- ========================= GOALS ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-BUILD%20PRODUCTION--READY%20APPLICATIONS-092E20?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=55&text=%F0%9F%8E%AF%20DEVELOPER%20GOALS&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
 
-Move beyond tutorial projects and build **scalable, secure and maintainable real-world applications.**
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🐍 01
+
+## Python Expertise
+
+Build strong skills in Python, Django, APIs and backend architecture.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 02
+
+## Production Applications
+
+Build scalable, secure and maintainable real-world applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🌐 03
+
+## Full Stack Development
+
+Strengthen React, JavaScript, REST APIs and modern frontend development.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 04
+
+## AI & Cloud
+
+Explore AI, NLP, machine learning and AWS cloud technologies.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🧠 05
+
+## DSA & Problem Solving
+
+Improve algorithms, logical thinking and technical interview skills.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌍 06
+
+## Open Source
+
+Contribute to useful projects and collaborate with other developers.
+
+</td>
+</tr>
+</table>
+
+<!-- ========================= LEARNING ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-MASTER%20FULL%20STACK%20DEVELOPMENT-61DAFB?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
-
-Strengthen my skills in **React, JavaScript, REST APIs, databases and modern frontend development.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-EXPLORE%20AI%20%26%20CLOUD-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+→
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+→
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+→
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+→
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+→
+<img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/AI%20%2F%20NLP-FF1493?style=for-the-badge"/>
+
 </p>
 
-Learn how **AI, machine learning and AWS cloud technologies** can be integrated into modern applications.
+<!-- ========================= GITHUB STATS ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/05-MASTER%20DSA%20%26%20PROBLEM%20SOLVING-F59E0B?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
-
-Improve algorithmic thinking and prepare for **software engineering interviews and technical challenges.**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/06-BUILD%20%26%20CONTRIBUTE-00C853?style=for-the-badge"/>
-</p>
-
-Create useful projects, contribute to open source and continuously improve through **building, debugging and learning.**
-
----
-
-# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
-
-# 🔥 Contribution Streak
+<!-- ========================= STREAK ========================= -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="70%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&text=%F0%9F%94%A5%20CONTRIBUTION%20STREAK&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="75%"/>
+</p>
 
-# 📊 Contribution Graph
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&text=%F0%9F%93%88%20CONTRIBUTION%20ACTIVITY&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashidhar133&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
 
----
+<!-- ========================= SNAKE ========================= -->
 
-# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=55&text=%F0%9F%90%8D%20CONTRIBUTION%20SNAKE&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
 </p>
 
----
-
-# 🌱 Currently Learning
+<!-- ========================= JOURNEY ========================= -->
 
 <p align="center">
-
-`Python` → `Django` → `REST APIs` → `React` → `PostgreSQL` → `AWS` → `DSA` → `AI`
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF1493&height=55&text=%F0%9F%9A%80%20MY%20DEVELOPMENT%20JOURNEY&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
 </p>
 
----
-
-# 💡 My Development Journey
-
 ```text
-                 ┌──────────────────────┐
-                 │   Computer Science   │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │       Python         │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │   Django / Flask     │
-                 └──────────┬───────────┘
-                            ↓
-              ┌─────────────┴─────────────┐
-              ↓                           ↓
-        ┌───────────┐               ┌────────────┐
-        │ Databases │               │   React    │
-        └─────┬─────┘               └──────┬─────┘
-              │                            │
-              └─────────────┬──────────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │   Full Stack Apps    │
-                 └──────────┬───────────┘
-                            ↓
-              ┌─────────────┴─────────────┐
-              ↓                           ↓
-        ┌───────────┐               ┌────────────┐
-        │   AWS     │               │ AI / NLP   │
-        └─────┬─────┘               └──────┬─────┘
-              │                            │
-              └─────────────┬──────────────┘
-                            ↓
-                 🚀 Production-Ready
-                    Applications
+                     COMPUTER SCIENCE
+                            │
+                            ▼
+                         PYTHON
+                            │
+                            ▼
+                    DJANGO / FLASK
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+             DATABASES              REACT
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                    FULL STACK APPS
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+                AWS                 AI / NLP
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                PRODUCTION-READY
+                    APPLICATIONS
 ```
 
----
+<!-- ========================= CONNECT ========================= -->
 
-# 🤝 Let's Connect
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&text=%F0%9F%93%AB%20LET%27S%20CONNECT&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/>
+</p>
 
 <p align="center">
 
@@ -396,18 +491,18 @@ Create useful projects, contribute to open source and continuously improve throu
 
 </p>
 
----
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning.+Keep+Building.+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%F0%9F%94%A5"/>
 
 </p>
 
 <p align="center">
-  ⭐ <b>If you like my projects, consider giving them a star!</b> ⭐
+  ⭐ <b>If you like my work, consider giving my projects a star!</b> ⭐
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 </p>
