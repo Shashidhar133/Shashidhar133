@@ -149,18 +149,23 @@ A machine-learning based Flask application for predicting satellite mission succ
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&text=%F0%9F%94%A5%20CONTRIBUTION%20STREAK&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="75%"/> </p>
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&text=%F0%9F%93%88%20CONTRIBUTION%20ACTIVITY&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashidhar133&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/> </p>
 
 ---
 
