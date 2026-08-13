@@ -147,28 +147,108 @@ A machine-learning based Flask application for predicting satellite mission succ
 
 ---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
-
----
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&text=%F0%9F%94%A5%20CONTRIBUTION%20STREAK&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="75%"/> </p>
-
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&text=%F0%9F%93%88%20CONTRIBUTION%20ACTIVITY&fontColor=ffffff&fontSize=24&fontAlignY=55" width="100%"/> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashidhar133&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/> </p>
-
----
-
-# 🐍 Contribution Snake
+<h2 align="center">
+  📊 <font color="#36BCF7">GitHub Analytics</font>
+</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <i>My coding activity, contributions and technology usage</i>
+</p>
+
+<br>
+
+<!-- GitHub Stats + Top Languages -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shashidhar133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    width="49%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhar133&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+    width="42%"
+  />
+</p>
+
+<br>
+
+<!-- ========================= CONTRIBUTION STREAK ========================= -->
+
+<h2 align="center">
+  🔥 <font color="#FF8C00">Contribution Streak</font>
+</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Shashidhar133&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF6B35&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=FFFFFF"
+    width="75%"
+  />
+</p>
+
+<br>
+
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+<h2 align="center">
+  📈 <font color="#00C6FF">Contribution Activity</font>
+</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shashidhar133&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF&area_color=36BCF7&area=true&hide_border=true&custom_title=Shashidhar%20Yadav%20-%20Contribution%20Activity"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+
+<h2 align="center">
+  🗓️ <font color="#8A2BE2">Contribution Calendar</font>
+</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/36BCF7/Shashidhar133"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+<h2 align="center">
+  🐍 <font color="#00F5A0">Contribution Snake</font>
+</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- ========================= PROFILE SUMMARY ========================= -->
+
+<h2 align="center">
+  🚀 <font color="#FF1493">Developer Activity</font>
+</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/Shashidhar133?style=for-the-badge&label=COMMITS"/>
+
+<img src="https://img.shields.io/github/last-commit/Shashidhar133/Shashidhar133?style=for-the-badge&label=LAST%20UPDATE"/>
+
+<img src="https://img.shields.io/github/repo-size/Shashidhar133/Shashidhar133?style=for-the-badge&label=PROFILE%20REPO"/>
+
 </p>
 
 ---
